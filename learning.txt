@@ -1,0 +1,1 @@
+So far in this course I have learned how GitHub works, including repositories, commits, branches, pull requests, and collaboration. I have also learned how changes can be tracked and shared using Git.
